@@ -17,7 +17,7 @@ print("----------------------------------------\n")
 for song in songs:
 
 	song_name = song[:-4]
-	print("Converting ",song_name)
+	print("Converting",song_name)
 
 	destination = song_name+".mp3"
 
