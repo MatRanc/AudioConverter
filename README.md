@@ -1,8 +1,10 @@
+
 # AudioConverter
 Python script to convert m4a's to mp3's in bulk
 
-to use:
-place in folder with m4as that you want converted
-run python convert.py
-???
-profit
+Usage:
+
+ 1. Place in folder with m4as that you want converted 
+ 2. Run `python convert.py` in terminal
+ 3. ??? 
+ 4. Profit
