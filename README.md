@@ -40,3 +40,7 @@ In theory it should also work with any other file type Pydub/FFmpeg allows:
 | **AMR**        | `.amr`                 | Requires FFmpeg                            |
 | **WebM**       | `.webm`                | Requires FFmpeg                            |
 | **3GP Audio**  | `.3gp`                 | Requires FFmpeg                            |
+
+## License
+
+[GNU Affero General Public License v3.0](LICENSE)
